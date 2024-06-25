@@ -1,0 +1,31 @@
+#dev{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    
+    width: 800px;
+    height:400px;
+    background-image: url(officeimg.png);
+    background-size: cover;
+    border: 2px solid black;
+}
+#content{
+    width: 500px;
+    height: 200px;
+    
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
+span{
+    border-bottom: 3px solid lightseagreen;
+}
+button{
+    padding: 10px 20px;
+    background-color: lightseagreen;
+    font-size: large;
+    
+}
+p{
+    font-size:large;
+}
